@@ -1,0 +1,15 @@
+2021-02-18 15:24:41,977 INFO Host:10.3.141.136, Port:50020
+2021-02-18 15:24:41,982 INFO Waiting for Pupil remote.
+2021-02-18 15:24:41,983 DEBUG Waiting for the PUB_PORT from Pupil Capture software.
+2021-02-18 15:25:02,390 INFO Host:127.0.0.1, Port:50020
+2021-02-18 15:25:02,390 INFO Waiting for Pupil remote.
+2021-02-18 15:25:02,390 DEBUG Waiting for the PUB_PORT from Pupil Capture software.
+2021-02-18 15:25:02,391 DEBUG PUB_PORT: 33855
+2021-02-18 15:25:02,391 DEBUG Waiting for the SUB_PORT from Pupil Capture software.
+2021-02-18 15:25:02,392 DEBUG SUB_PORT: 45507
+2021-02-18 15:25:02,392 INFO Connection Successful.
+2021-02-18 15:25:02,392 INFO Calculating the network lateny...
+2021-02-18 15:25:02,842 INFO One direction Network latency calculated between Video backend and Pupil Software.
+2021-02-18 15:25:02,843 INFO Minimum:0.0003349781036376953 second
+2021-02-18 15:25:02,843 INFO Average:0.0006813991069793701 second
+2021-02-18 15:25:02,843 INFO Maximum:0.004078269004821777 second
